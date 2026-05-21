@@ -35,5 +35,4 @@ Kaggle Credit Card Fraud Detection Dataset
 
 ## Results
 - Random Forest achieved the best performance among all 3 models
-- Evaluated on ROC-AUC score and Recall metric# credit-card-fraud-detection
-ML model to detect fraudulent transactions using Logistic Regression, Decision Tree  and Random Forest
+- Evaluated on ROC-AUC score and Recall metric
